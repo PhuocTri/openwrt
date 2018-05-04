@@ -299,6 +299,7 @@ platform_check_image() {
 		nand_do_platform_check "${board//,/_}" "$1"
 		return $?;
 		;;
+	mikrotik,rbm33g|\
 	re350-v1)
 		[ "$magic" != "01000000" ] && {
 			echo "Invalid image type."
@@ -318,6 +319,16 @@ platform_check_image() {
 
 	echo "Sysupgrade is not yet supported on $board."
 	return 1
+}
+
+platform_pre_upgrade() {
+	local board=$(board_name)
+
+	case "$board" in
+	mikrotik,rbm33g)
+		[ -z "$(rootfs_type)" ] && mtd erase firmware
+		;;
+	esac
 }
 
 platform_nand_pre_upgrade() {

@@ -134,6 +134,7 @@ platform_check_image() {
 	puppies|\
 	px-4885-4M|\
 	px-4885-8M|\
+	netgear,r6120|\
 	rb750gr3|\
 	re6500|\
 	rp-n53|\

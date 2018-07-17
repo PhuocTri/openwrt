@@ -47,20 +47,96 @@ CONFIG_TARGET_ramips=y
 # CONFIG_TARGET_uml is not set
 # CONFIG_TARGET_zynq is not set
 # CONFIG_TARGET_x86 is not set
-# CONFIG_TARGET_ramips_mt7620 is not set
-CONFIG_TARGET_ramips_mt7620nand=y
+CONFIG_TARGET_ramips_mt7620=y
 # CONFIG_TARGET_ramips_mt7621 is not set
 # CONFIG_TARGET_ramips_mt76x8 is not set
 # CONFIG_TARGET_ramips_rt288x is not set
 # CONFIG_TARGET_ramips_rt305x is not set
 # CONFIG_TARGET_ramips_rt3883 is not set
 # CONFIG_TARGET_MULTI_PROFILE is not set
-# CONFIG_TARGET_ramips_mt7620nand_Default is not set
-CONFIG_TARGET_ramips_mt7620nand_DEVICE_xiaomi_miwifi-r3=y
+# CONFIG_TARGET_ramips_mt7620_Default is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_alfa-network_ac1200rm is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ai-br100 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_rp-n53 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_rt-ac51u is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_rt-n12p is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_rt-n14u is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_whr-1166d is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_whr-300hp2 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_whr-600d is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_wmr-300 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_cf-wr800n is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_dch-m225 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_dir-810l is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dwr-116-a1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dwr-921-c1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_dlink_dwr-921-c3 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_tiny-ac is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_wrh-300cr is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_gl-mt300a is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_gl-mt300n is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_gl-mt750 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_c108 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_hc5661 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_hc5761 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_hc5861 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_u25awf-h1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_kimax_u35wf is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_mlw221 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_mlwg2 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_y1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_y1s is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_e1700 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_mt7620a_mt7530 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_mt7620a_mt7610e is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_mt7620a is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_mt7620a_v22sg is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_microwrt is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ex2700 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ex3700-ex3800 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_wn3000rpv3 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_wt3020-4M is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_wt3020-8M is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_oy-0001 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_k2g is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_psg1208 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_psg1218a is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_psg1218b is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_cs-qr10 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_db-wrt01 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_mzk-750dhp is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_mzk-ex300np is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_mzk-ex750np is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ravpower_wd03 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_d240 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_na930 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_tplink_c2-v1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_tplink_c20-v1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ArcherC20i is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ArcherC50v1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_ArcherMR200 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_vonets_var11n-300 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_wrtnode is not set
+CONFIG_TARGET_ramips_mt7620_DEVICE_xiaomi_miwifi-r3=y
+# CONFIG_TARGET_ramips_mt7620_DEVICE_miwifi-mini is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_youku-yk1 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_bocco is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zte-q7 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-ape522ii is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-cpe102 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-wa05 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_we1026-5g-16m is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-we2026 is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-we826-16M is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-we826-32M is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_zbt-wr8305rt is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_kn_rc is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_kn_rf is not set
+# CONFIG_TARGET_ramips_mt7620_DEVICE_kng_rc is not set
 CONFIG_HAS_SUBTARGETS=y
 CONFIG_HAS_DEVICES=y
 CONFIG_TARGET_BOARD="ramips"
-CONFIG_TARGET_SUBTARGET="mt7620nand"
+CONFIG_TARGET_SUBTARGET="mt7620"
 CONFIG_TARGET_PROFILE="DEVICE_xiaomi_miwifi-r3"
 CONFIG_TARGET_ARCH_PACKAGES="mipsel_24kc"
 CONFIG_DEFAULT_TARGET_OPTIMIZATION="-Os -pipe -mno-branch-likely -mips32r2 -mtune=24kc"
@@ -78,6 +154,7 @@ CONFIG_DEFAULT_iwinfo=y
 CONFIG_DEFAULT_kmod-gpio-button-hotplug=y
 CONFIG_DEFAULT_kmod-ipt-offload=y
 CONFIG_DEFAULT_kmod-leds-gpio=y
+CONFIG_DEFAULT_kmod-mt76=y
 CONFIG_DEFAULT_kmod-mt76x2=y
 CONFIG_DEFAULT_kmod-rt2800-pci=y
 CONFIG_DEFAULT_kmod-rt2800-soc=y
@@ -166,6 +243,7 @@ CONFIG_KERNEL_DEBUG_FS=y
 # CONFIG_KERNEL_MIPS_FPU_EMULATOR is not set
 # CONFIG_KERNEL_PERF_EVENTS is not set
 # CONFIG_KERNEL_PROFILING is not set
+# CONFIG_KERNEL_TASKSTATS is not set
 CONFIG_KERNEL_KALLSYMS=y
 # CONFIG_KERNEL_FTRACE is not set
 CONFIG_KERNEL_DEBUG_KERNEL=y
@@ -226,6 +304,9 @@ CONFIG_KERNEL_IPV6_MROUTE=y
 # CONFIG_KERNEL_JFS_POSIX_ACL is not set
 CONFIG_KERNEL_DEVMEM=y
 # CONFIG_KERNEL_DEVKMEM is not set
+CONFIG_KERNEL_SQUASHFS_FRAGMENT_CACHE_SIZE=3
+CONFIG_KERNEL_CC_OPTIMIZE_FOR_PERFORMANCE=y
+# CONFIG_KERNEL_CC_OPTIMIZE_FOR_SIZE is not set
 
 #
 # Package build options
@@ -287,7 +368,6 @@ CONFIG_TOOLCHAINOPTS=y
 #
 # Binary tools
 #
-# CONFIG_BINUTILS_USE_VERSION_2_27 is not set
 # CONFIG_BINUTILS_USE_VERSION_2_29_1 is not set
 CONFIG_BINUTILS_USE_VERSION_2_30=y
 CONFIG_EXTRA_BINUTILS_CONFIG_OPTIONS=""
@@ -355,8 +435,6 @@ CONFIG_VERSION_HWREV=""
 CONFIG_VERSION_FILENAMES=y
 # CONFIG_VERSION_CODE_FILENAMES is not set
 CONFIG_PER_FEED_REPO=y
-CONFIG_PER_FEED_REPO_ADD_DISABLED=y
-CONFIG_PER_FEED_REPO_ADD_COMMENTED=y
 CONFIG_FEED_packages=y
 CONFIG_FEED_luci=y
 CONFIG_FEED_routing=y
@@ -1507,7 +1585,6 @@ CONFIG_PACKAGE_htop=y
 #
 # Extra packages
 #
-# CONFIG_PACKAGE_fast-classifier-example is not set
 
 #
 # Firmware
@@ -1986,7 +2063,6 @@ CONFIG_PACKAGE_kmod-mii=y
 # CONFIG_PACKAGE_kmod-bonding is not set
 # CONFIG_PACKAGE_kmod-capi is not set
 CONFIG_PACKAGE_kmod-dnsresolver=y
-# CONFIG_PACKAGE_kmod-fast-classifier is not set
 # CONFIG_PACKAGE_kmod-fou is not set
 # CONFIG_PACKAGE_kmod-geneve is not set
 CONFIG_PACKAGE_kmod-gre=y
@@ -2026,8 +2102,6 @@ CONFIG_PACKAGE_kmod-sched-cake=y
 CONFIG_PACKAGE_kmod-sched-connmark=y
 CONFIG_PACKAGE_kmod-sched-core=y
 # CONFIG_PACKAGE_kmod-sctp is not set
-# CONFIG_PACKAGE_kmod-shortcut-fe is not set
-# CONFIG_PACKAGE_kmod-shortcut-fe-cm is not set
 CONFIG_PACKAGE_kmod-sit=y
 CONFIG_PACKAGE_kmod-slhc=y
 # CONFIG_PACKAGE_kmod-slip is not set
@@ -2091,6 +2165,7 @@ CONFIG_PACKAGE_kmod-mmc=y
 # CONFIG_PACKAGE_kmod-rtc-pt7c4338 is not set
 # CONFIG_PACKAGE_kmod-rtc-rs5c372a is not set
 # CONFIG_PACKAGE_kmod-sdhci is not set
+CONFIG_PACKAGE_kmod-sdhci-mt7620=y
 # CONFIG_PACKAGE_kmod-serial-8250 is not set
 # CONFIG_PACKAGE_kmod-serial-8250-exar is not set
 # CONFIG_PACKAGE_kmod-softdog is not set
@@ -2336,7 +2411,6 @@ CONFIG_PACKAGE_lua-md5=y
 # CONFIG_PACKAGE_luac is not set
 # CONFIG_PACKAGE_luaexpat is not set
 # CONFIG_PACKAGE_luafilesystem is not set
-# CONFIG_PACKAGE_luai2c is not set
 # CONFIG_PACKAGE_luajit is not set
 # CONFIG_PACKAGE_lualanes is not set
 # CONFIG_PACKAGE_luaposix is not set
@@ -2378,11 +2452,15 @@ CONFIG_PACKAGE_luasocket=y
 # CONFIG_PACKAGE_django-appconf is not set
 # CONFIG_PACKAGE_django-compressor is not set
 # CONFIG_PACKAGE_django-constance is not set
+# CONFIG_PACKAGE_django-formtools is not set
 # CONFIG_PACKAGE_django-jsonfield is not set
 # CONFIG_PACKAGE_django-picklefield is not set
 # CONFIG_PACKAGE_django-postoffice is not set
+# CONFIG_PACKAGE_django-ranged-response is not set
 # CONFIG_PACKAGE_django-restframework is not set
+# CONFIG_PACKAGE_django-simple-captcha is not set
 # CONFIG_PACKAGE_django-statici18n is not set
+# CONFIG_PACKAGE_django-webpack-loader is not set
 # CONFIG_PACKAGE_et_xmlfile is not set
 # CONFIG_PACKAGE_flup is not set
 # CONFIG_PACKAGE_gunicorn is not set
@@ -2391,6 +2469,7 @@ CONFIG_PACKAGE_luasocket=y
 # CONFIG_PACKAGE_micropython-lib is not set
 # CONFIG_PACKAGE_openpyxl is not set
 # CONFIG_PACKAGE_pillow is not set
+# CONFIG_PACKAGE_pyjwt is not set
 # CONFIG_PACKAGE_python is not set
 # CONFIG_PACKAGE_python-asn1crypto is not set
 # CONFIG_PACKAGE_python-attrs is not set
@@ -2399,6 +2478,7 @@ CONFIG_PACKAGE_luasocket=y
 # CONFIG_PACKAGE_python-automat-src is not set
 # CONFIG_PACKAGE_python-base is not set
 # CONFIG_PACKAGE_python-base-src is not set
+# CONFIG_PACKAGE_python-certifi is not set
 # CONFIG_PACKAGE_python-cffi is not set
 # CONFIG_PACKAGE_python-cffi-src is not set
 # CONFIG_PACKAGE_python-codecs is not set
@@ -2462,6 +2542,7 @@ CONFIG_PACKAGE_luasocket=y
 # CONFIG_PACKAGE_python-mysql is not set
 # CONFIG_PACKAGE_python-ncurses is not set
 # CONFIG_PACKAGE_python-ncurses-src is not set
+# CONFIG_PACKAGE_python-oauthlib is not set
 # CONFIG_PACKAGE_python-openssl is not set
 # CONFIG_PACKAGE_python-openssl-src is not set
 # CONFIG_PACKAGE_python-packages is not set
@@ -2489,6 +2570,9 @@ CONFIG_PACKAGE_luasocket=y
 # CONFIG_PACKAGE_python-pyptlib-src is not set
 # CONFIG_PACKAGE_python-pyserial is not set
 # CONFIG_PACKAGE_python-pyserial-src is not set
+# CONFIG_PACKAGE_python-qrcode is not set
+# CONFIG_PACKAGE_python-requests is not set
+# CONFIG_PACKAGE_python-requests-oauthlib is not set
 # CONFIG_PACKAGE_python-service-identity is not set
 # CONFIG_PACKAGE_python-service-identity-src is not set
 # CONFIG_PACKAGE_python-setuptools is not set
@@ -2577,6 +2661,7 @@ CONFIG_PACKAGE_luasocket=y
 # CONFIG_PACKAGE_python3-markupsafe is not set
 # CONFIG_PACKAGE_python3-multiprocessing is not set
 # CONFIG_PACKAGE_python3-multiprocessing-src is not set
+# CONFIG_PACKAGE_python3-mysql is not set
 # CONFIG_PACKAGE_python3-ncurses is not set
 # CONFIG_PACKAGE_python3-ncurses-src is not set
 # CONFIG_PACKAGE_python3-openssl is not set
@@ -2935,12 +3020,15 @@ CONFIG_PACKAGE_libblobmsg-json=y
 CONFIG_PACKAGE_libcares=y
 # CONFIG_PACKAGE_libcharset is not set
 # CONFIG_PACKAGE_libcoap is not set
+CONFIG_PACKAGE_libcomerr=y
 # CONFIG_PACKAGE_libconfig is not set
 # CONFIG_PACKAGE_libcurl is not set
 # CONFIG_PACKAGE_libdaemon is not set
 # CONFIG_PACKAGE_libdaq is not set
 # CONFIG_PACKAGE_libdb47 is not set
+# CONFIG_PACKAGE_libdb47xx is not set
 # CONFIG_PACKAGE_libdbi is not set
+# CONFIG_PACKAGE_libdbus is not set
 # CONFIG_PACKAGE_libdevmapper is not set
 # CONFIG_PACKAGE_libdmapsharing is not set
 # CONFIG_PACKAGE_libdnet is not set
@@ -2948,9 +3036,6 @@ CONFIG_PACKAGE_libcares=y
 # CONFIG_PACKAGE_libdrm is not set
 # CONFIG_PACKAGE_libedit is not set
 # CONFIG_PACKAGE_libelf1 is not set
-CONFIG_PACKAGE_libcomerr=y
-# CONFIG_PACKAGE_libdb47xx is not set
-# CONFIG_PACKAGE_libdbus is not set
 # CONFIG_PACKAGE_libecdsautil is not set
 # CONFIG_PACKAGE_libesmtp is not set
 # CONFIG_PACKAGE_libestr is not set
@@ -3024,7 +3109,7 @@ CONFIG_PACKAGE_liblucihttp-lua=y
 CONFIG_PACKAGE_liblzo=y
 # CONFIG_PACKAGE_libmad is not set
 CONFIG_PACKAGE_libmagic=y
-# CONFIG_PACKAGE_libmariadbclient is not set
+# CONFIG_PACKAGE_libmariadb is not set
 # CONFIG_PACKAGE_libmcrypt is not set
 # CONFIG_PACKAGE_libmicrohttpd is not set
 # CONFIG_PACKAGE_libmicrohttpd-no-ssl is not set
@@ -3106,6 +3191,7 @@ CONFIG_PACKAGE_libpcre=y
 # CONFIG_PACKAGE_libpopt is not set
 # CONFIG_PACKAGE_libpri is not set
 # CONFIG_PACKAGE_libprotobuf-c is not set
+# CONFIG_PACKAGE_libpsl is not set
 # CONFIG_PACKAGE_libqrencode is not set
 # CONFIG_PACKAGE_libradcli is not set
 CONFIG_PACKAGE_libreadline=y
@@ -3125,6 +3211,7 @@ CONFIG_PACKAGE_librrd1=y
 # CONFIG_PACKAGE_libshout-full is not set
 # CONFIG_PACKAGE_libshout-nossl is not set
 # CONFIG_PACKAGE_libsigcxx is not set
+# CONFIG_PACKAGE_libsispmctl is not set
 CONFIG_PACKAGE_libsmartcols=y
 # CONFIG_PACKAGE_libsndfile is not set
 # CONFIG_PACKAGE_libsoc is not set
@@ -3238,7 +3325,6 @@ CONFIG_PACKAGE_luci=y
 CONFIG_PACKAGE_luci-ssl=y
 # CONFIG_PACKAGE_luci-ssl-nginx is not set
 # CONFIG_PACKAGE_luci-ssl-openssl is not set
-# CONFIG_PACKAGE_luci-ssl-openssl-nginx is not set
 
 #
 # 2. Modules
@@ -4408,6 +4494,10 @@ CONFIG_OPENVPN_openssl_ENABLE_SMALL=y
 # CONFIG_PACKAGE_haproxy-nossl is not set
 # CONFIG_PACKAGE_lighttpd is not set
 # CONFIG_PACKAGE_nginx is not set
+# CONFIG_PACKAGE_nginx-all-module is not set
+# CONFIG_PACKAGE_nginx-mod-luci is not set
+# CONFIG_PACKAGE_nginx-mod-luci-ssl is not set
+# CONFIG_PACKAGE_nginx-ssl is not set
 # CONFIG_PACKAGE_polipo is not set
 # CONFIG_PACKAGE_privoxy is not set
 # CONFIG_PACKAGE_radicale-py2 is not set
@@ -4499,6 +4589,7 @@ CONFIG_PACKAGE_etherwake=y
 # CONFIG_PACKAGE_ethtool is not set
 # CONFIG_PACKAGE_fakeidentd is not set
 # CONFIG_PACKAGE_fping is not set
+# CONFIG_PACKAGE_geth is not set
 # CONFIG_PACKAGE_gnunet is not set
 # CONFIG_PACKAGE_gre is not set
 # CONFIG_PACKAGE_hnet-full is not set
@@ -5134,6 +5225,7 @@ CONFIG_PACKAGE_coreutils-whoami=y
 # CONFIG_PACKAGE_crelay is not set
 # CONFIG_PACKAGE_ct-bugcheck is not set
 # CONFIG_PACKAGE_dbus is not set
+# CONFIG_PACKAGE_dbus-utils is not set
 # CONFIG_PACKAGE_dfu-util is not set
 # CONFIG_PACKAGE_digitemp is not set
 # CONFIG_PACKAGE_digitemp-usb is not set
